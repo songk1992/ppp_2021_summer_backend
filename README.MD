@@ -18,6 +18,13 @@
 외부 API와 연동해서 아이디어를 더 생각해 본뒤 진행 예정
 ```
 
+# Deployment
+
+https://ppp2021ss.herokuapp.com/
+
+(무료 서버여서 끊길수 있음)
+(용량 제한 및 실행 딜레이 있음)
+
 # IDE 및 환경
 
 Spring Tool Suite (IDE)
@@ -60,12 +67,21 @@ Spring Web
   <td>2021-07-25</td>
   <td>김C</td>
 </tr>
+<tr>
+  <td>2</td>
+  <td>TRAVIS 및 HEROKKU 세팅완료</td>
+  <td>2021-07-26</td>
+  <td>김C</td>
+</tr>
 </table>
 
 <br />
 <hr />
 <br />
 
+# reference
+
+[Full stack project with spring boot java and react - TDD](https://www.udemy.com/course/full-stack-project-using-spring-boot-and-react-with-tdd/)
 
 
 
