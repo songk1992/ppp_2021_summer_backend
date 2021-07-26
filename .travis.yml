@@ -15,5 +15,5 @@ deploy:
   api_key: $HEROKU_TOKEN
   on: main
   app: "ppp-2021-summer-backend"
-
+  all_branches: true
     
